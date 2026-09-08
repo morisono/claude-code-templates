@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T03:03:12.439907+00:00",
+  "lastUpdated": "2026-09-08T03:03:03.063146+00:00",
   "totalJobs": 102,
   "sources": [
     "Anthropic",
@@ -7,6 +7,28 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-49598051",
+      "company": "BOSS-IQ",
+      "position": "Software Engineer",
+      "location": "REMOTE (worldwide)",
+      "remote": true,
+      "salary": "",
+      "description": "BOSS-IQ is an AI strategic-planning product for owner-operators of small and medium businesses. The boss describes an idea that has been stuck for years; a research-and-question session returns an implementation-ready plan. In production since June, hand-onboarding our first paying customers since...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49598051",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49598051",
+      "postedAt": "2026-09-07T13:13:20+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Rust",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "anth-5415529008",
       "company": "Anthropic",
@@ -1849,28 +1871,6 @@
       "postedAt": "2026-04-23T18:13:14-04:00",
       "tags": [
         "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5192805008",
-      "company": "Anthropic",
-      "position": "Applied AI Architect, Commercial",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping customers understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You'll combine...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "postedAt": "2026-04-17T16:25:27-04:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "Go",
         "AWS",
         "Claude Code",
         "Anthropic"
