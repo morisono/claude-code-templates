@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T03:02:51.897684+00:00",
-  "totalJobs": 92,
+  "lastUpdated": "2026-09-25T03:02:49.219170+00:00",
+  "totalJobs": 91,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -484,26 +484,6 @@
       "companyIcon": ""
     },
     {
-      "id": "anth-5407337008",
-      "company": "Anthropic",
-      "position": "Product Manager, Beneficial Deployments (Labs)",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "Claude has had commercial impact, but there’s significantly more that frontier AI can do outside of general use cases. Some of the largest opportunities: a step change in health, education, and economic opportunity for the people and institutions the technology would otherwise reach last, sit...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
-      "postedAt": "2026-08-27T15:48:13-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "wwr-toptal-automation-engineer-uipath-for-innovative-ai-project",
       "company": "Toptal",
       "position": "Automation Engineer (UIPath) for innovative AI Project",
@@ -563,27 +543,6 @@
       "tags": [
         "TypeScript",
         "Python",
-        "Rust",
-        "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5387754008",
-      "company": "Anthropic",
-      "position": "Manager, Applied AI Architect, Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As the manager of the Solutions Architect team within Applied AI Enterprise Tech at Anthropic, you will drive the adoption of frontier AI in partnership with the rest of the go to market organization. Our Enterprise Tech customers are some of the world's most sophisticated technology companies,...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
-      "postedAt": "2026-08-25T13:38:58-04:00",
-      "tags": [
         "Rust",
         "Go",
         "AWS",
@@ -1144,6 +1103,26 @@
       "companyIcon": ""
     },
     {
+      "id": "anth-5311465008",
+      "company": "Anthropic",
+      "position": "Developer Education Lead, Claude Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "remote": false,
+      "salary": "",
+      "description": "The Claude Platform ships fast, and every launch lands better when the field can understand it, demo it, and teach it. You'll own platform enablement end to end: the demos, hands-on labs, and technical curriculum that let Anthropic's go-to-market teams showcase the Claude Developer Platform with...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
+      "postedAt": "2026-07-10T19:56:01-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5309805008",
       "company": "Anthropic",
       "position": "Engineering Manager, Connectivity - London",
@@ -1459,26 +1438,6 @@
         "Go",
         "Claude Code",
         "MySQL"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48749788",
-      "company": "Delta AI",
-      "position": "Software Engineer",
-      "location": "ONSITE SF Bay Area (Remote)",
-      "remote": true,
-      "salary": "",
-      "description": "Delta AI is building an AI-powered, scenario-based training platform where trainees practice high-stakes conversations like sales calls, negotiations, leadership moments, and cross-cultural exchanges against conversational AI roleplayers capable of realistic speech and real-time interaction. We're...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48749788",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48749788",
-      "postedAt": "2026-07-01T16:52:15+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "Claude Code"
       ],
       "companyIcon": ""
     },
@@ -1811,6 +1770,28 @@
         "GCP",
         "Azure",
         "Kubernetes",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5098025008",
+      "company": "Anthropic",
+      "position": "Model Performance Software Engineer, Claude Code",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "We're looking for a Staff Software Engineer to set technical direction at the intersection of engineering and research on the Claude Code team. In this role, you'll partner directly with Anthropic's researchers and engineering leadership to shape how we measure, understand, and improve Claude's...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+      "postedAt": "2026-02-02T17:15:17-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "AWS",
         "Claude Code",
         "Anthropic"
       ],
